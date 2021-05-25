@@ -1,5 +1,6 @@
 - 👋 Olá, sou Matheus Pires 
 - Atualmente estudo no IFMG Sabará, cursando sistemas de informação, o qual iniciei em 2019 e a previsão de conclusão em 2023
+- Aqui está alguns projetos pessoais,projetos da faculdade, desafios e projetos desenvolvidos em bootcamps
 
 
 <!---
